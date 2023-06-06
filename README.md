@@ -14,3 +14,5 @@ This project is made (in spare time) with the intention of the following points:
 - Budget for subscription/resource group
 
 Suggestions are welcome and may be considered at a later stage when project reaches v1
+
+Progress can be monitored [here](https://github.com/orgs/ffive-xyz/projects/1).
